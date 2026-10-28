@@ -1,0 +1,5 @@
+venv/bin/python add_logo.py -i ./photos -l ./logo.png -p middle-center
+
+Option --scale 0.2 --opacity 0.7
+
+top-left, top-center, top-right, middle-left, middle-center, middle-right, bottom-left, bottom-center, bottom-right.
